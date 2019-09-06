@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPCRM.Api", "LPCRM.Api\LPCRM.Api.csproj", "{60061C55-9B92-43C4-917D-5A18B42D3233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60061C55-9B92-43C4-917D-5A18B42D3233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60061C55-9B92-43C4-917D-5A18B42D3233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60061C55-9B92-43C4-917D-5A18B42D3233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60061C55-9B92-43C4-917D-5A18B42D3233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6C6491-0FC8-49F9-947D-E6B7BAD67374}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+[
+  {
+    "FundVehicleId": 1,
+    "FundVehicleName": "Fund I"
+  },
+  {
+    "FundVehicleId": 2,
+    "FundVehicleName": "Fund II"
+  },
+  {
+    "FundVehicleId": 3,
+    "FundVehicleName": "Fund III"
+  }
+]

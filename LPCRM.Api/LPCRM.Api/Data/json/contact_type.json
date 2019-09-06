@@ -1,0 +1,14 @@
+[
+  {
+    "ContactTypeId": 1,
+    "ContactTypeName": "Main"
+  },
+  {
+    "ContactTypeId": 2,
+    "ContactTypeName": "Capital notices"
+  },
+  {
+    "ContactTypeId": 3,
+    "ContactTypeName": "K1"
+  }
+]

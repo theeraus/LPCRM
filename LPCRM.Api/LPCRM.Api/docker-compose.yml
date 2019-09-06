@@ -1,0 +1,18 @@
+version: '3'
+services:
+
+  LP.Api:
+    image: r0mios/dev-app:lp-api-1.02
+    build: .
+    container_name: LP-Api
+    ports:
+       - "4001:80"
+    restart: always
+    environment:
+      TZ: "Asia/Bangkok"
+    command: >
+      sh -c "ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && 
+      echo $TZ > /etc/timezone &&
+      exec my-main-application"
+
+
